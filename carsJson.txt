@@ -1,0 +1,74 @@
+{
+  "cars": [
+    {
+      "name": "Mercedes-Benz",
+      "year": "2011",
+      "body": "sedan",
+      "engine": "V8",
+      "transmission": "automatic"
+    },
+    {
+      "name": "BMW",
+      "year": "2015",
+      "body": "sedan",
+      "engine": "V6",
+      "transmission": "automatic"
+    },
+    {
+      "name": "Porsche",
+      "year": "2017",
+      "body": "sedan",
+      "engine": "V6",
+      "transmission": "automatic"
+    },
+    {
+      "name": "Audi",
+      "year": "2010",
+      "body": "sedan",
+      "engine": "V6",
+      "transmission": "automatic"
+    },
+    {
+      "name": "Ford",
+      "year": "2018",
+      "body": "sedan",
+      "engine": "1.6",
+      "transmission": "manual"
+    },
+    {
+      "name": "Lada",
+      "year": "2019",
+      "body": "sedan",
+      "engine": "1.6",
+      "transmission": "manual"
+    },
+    {
+      "name": "BMW",
+      "year": "2017",
+      "body": "sedan",
+      "engine": "V12",
+      "transmission": "automatic"
+    },
+    {
+      "name": "Toyota",
+      "year": "2019",
+      "body": "sedan",
+      "engine": "V6",
+      "transmission": "automatic"
+    },
+    {
+      "name": "Land Rover",
+      "year": "2011",
+      "body": "crossover",
+      "engine": "V6",
+      "transmission": "automatic"
+    },
+    {
+      "name": "Kia",
+      "year": "2019",
+      "body": "sedan",
+      "engine": "1.6",
+      "transmission": "manual"
+    }
+  ]
+}
