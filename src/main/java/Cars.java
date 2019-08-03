@@ -40,12 +40,10 @@ public class Cars {
 
     @Override
     public String toString() {
-        return "Cars{" +
-                "name='" + name + '\'' +
-                ", year='" + year + '\'' +
-                ", body='" + body + '\'' +
-                ", engine='" + engine + '\'' +
-                ", transmission='" + transmission + '\'' +
-                '}';
+        return " Car " + name + '\n' +
+                " year:  " + year + '\n' +
+                " body:  " + body + '\n' +
+                " engine:  " + engine + '\n' +
+                " transmission:  " + transmission + "\n";
     }
 }
